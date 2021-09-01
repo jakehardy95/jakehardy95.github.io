@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jacob Hardy",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "jh47@hawaii.edu",
+    "phone": "808-497-6779",
+    "website": "https://jakehardy95.github.io",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96813",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +17,23 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "jakehardy95",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Jacob Hardy",
+        "url": "http://linkedin.com/in/jacob-hardy1995"
       },
       {
         "network": "twitter",
         "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "url": "http://twitter.com/jakehardy95"
       },
       {
         "network": "instagram",
         "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "http://instagram.com/hake.jardy"
       }
     ]
   },
@@ -61,12 +61,7 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Java"    
       ]
     },
     {
@@ -74,90 +69,72 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2023)",
+      "studyType": "B.A.",
+      "startDate": "2019-08-26",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "ICS 111 - Intro to Java",
+        "ICS 141 - Discrete Math I",
+        "ICS 241 - Discrete Math II",
+        "ICS 211 - Data Structures",
+        "ICS 212 - Program Structure C, C++ (Fall 2021)",
+        "ICS 314 - Software Engineering (Fall 2021)"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Aaron's Dive Shop",
+      "position": "Scuba Instructor",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-07-15",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Lead and teach new and existing divers",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Instruct, guide, and mentor new scuba divers as well as existing divers",
+        "Ensure proper safety and teaching protocol is being utilized"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "United States Marine Corps",
+      "position": "Musician",
+      "startDate": "2015-05-04",
+      "endDate": "2019-05-03",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Perform for audiences around the USA and different countries around the world",
+        "Mentor new Marines coming into the band"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Kubasaki High School",
+      "position": "ROTC Drill Instructor",
+      "startDate": "2017-10-15",
+      "endDate": "2017-12-01",
+      "summary": "Teach students successful drill",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Teach students competitive drill moves",
+        "Compete in country wide competitions with clean drill"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Navy Marine Corps Achievement Medal",
+      "date": "2018-04-10",
+      "awarder": "Commanding Officer, III MEF Band",
+      "summary": "Awarded for writing a marching band show by myself that was presented in front of tens of thousands of people in Japan via a live audience and live stream."
     }
   ],
   "references": [
