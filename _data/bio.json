@@ -22,36 +22,31 @@
       },
       {
         "network": "linkedin",
-        "username": "Jacob Hardy",
+        "username": "jacob-hardy1995",
         "url": "http://linkedin.com/in/jacob-hardy1995"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/jakehardy95"
-      },
-      {
         "network": "instagram",
-        "username": "molly",
+        "username": "hake.jardy",
         "url": "http://instagram.com/hake.jardy"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "AI",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Artificial Intelligence",
+        "Deep Learning"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Cloud Infrastructure",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Virtual Reality",
       "keywords": [
       ]
     }
@@ -69,6 +64,7 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows",
         "Git/GitHub"
       ]
     }
@@ -92,6 +88,18 @@
     }
   ],
   "work": [
+    {
+      "company": "Evercast",
+      "position": "Software Developer Intern",
+      "website": "",
+      "startDate": "2021-09-01",
+      "endDate": "Present",
+      "summary": "Assist in the production of iOS and Android app",
+      "highlights": [
+        "Instruct, guide, and mentor new scuba divers as well as existing divers",
+        "Ensure proper safety and teaching protocol is being utilized"
+      ]
+    },
     {
       "company": "Aaron's Dive Shop",
       "position": "Scuba Instructor",
