@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Band.jpeg
 title: III MEF Band Marching Show
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
