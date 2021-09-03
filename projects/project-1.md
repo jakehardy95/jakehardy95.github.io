@@ -2,43 +2,26 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: III MEF Band Marching Show
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-11-15
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Music
+  - Project Management
+  - Teaching
+summary: I wrote a marching show that was performed in front of an audience of over 40,000 people over the course of 4 nights as well as thousands of people online. 
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
-</div>
+The Japanese Ground Self Defense Force Marching Festival is a festival held in Tokyo, Japan every year (except during the olympics and COVID). Over the course of about 2-3 months, different military bands from around the world learn a marching band show and perform it at the festival. During the festival, we got to intermingle with bands from South Korea, Japan, Germany, India, as well as other USA Military Bands from the region. 
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+My task was to write a 6-8 minute marching show from music given to me by our conductor and teach it to the entire band over the course of 3 months. I spent hours and hours writing drill (formations that the band marched and played to) and perfecting it using PyWare, a computer software that marching bands use to design shows. Our goal was to create a show that was not only visually appealing, but something that provided value to not only the other bands, but ultimately to Japan as a country as we are great allies with them. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+It was without a doubt one of the hardest marching shows we have ever done during my stay at the band. I was stationed in Japan for 2 years in the Marine Corps Band in Okinawa. Not only did I teach a show to the band, but I also rehearsed and cleaned the drill to ensure that we looked our best come the festival. 
 
-Here is some code that illustrates how we read values from the line sensors:
+You can see more from the video below:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+<iframe width='500' height='300' scrolling='no' frameborder='0' style='border: none; overflow: hidden; width: 500px; height: 300px;' allowtransparency='true' src='[object Object]'></iframe>
 
 
 
