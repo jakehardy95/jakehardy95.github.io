@@ -5,7 +5,7 @@ image: images/666506_music_512x512.png
 title: My Musicianship
 permalink: projects/music
 # All dates must be YYYY-MM-DD format!
-date: 2019-05-3
+date: 2019-05-03
 labels:
   - Music
   - Clarinet
