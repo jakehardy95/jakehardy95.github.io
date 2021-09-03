@@ -19,9 +19,9 @@ My task was to write a 6-8 minute marching show from music given to me by our co
 
 It was without a doubt one of the hardest marching shows we have ever done during my stay at the band. I was stationed in Japan for 2 years in the Marine Corps Band in Okinawa. Not only did I teach a show to the band, but I also rehearsed and cleaned the drill to ensure that we looked our best come the festival. 
 
-You can see more from the video below:
+You can see more from the video in the link below:
 
-<iframe width='500' height='300' scrolling='no' frameborder='0' style='border: none; overflow: hidden; width: 500px; height: 300px;' allowtransparency='true' src='[object Object]'></iframe>
+https://www.marines.mil/News/Marines-TV/videoid/568378/dvpTag/Budokan/dvpyear/2017/
 
 
 
