@@ -2,24 +2,19 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Kauai Travel Video
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Final Cut Pro X
+summary: A travel video summarizing our time in Kauai with my family.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+During the summer of 2020, after COVID settled down a bit, Hawaii opened interisland travel as long as you got a PCR test if you were flying from Oahu to any other island. My family and I decided to seize the opportunity to visit Kauai and tour the island. 
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Throughout the trip, we visited the Kauai Coffee Company, Na Pali Coast line, Waimea Canyon, as well as many other sites. The whole trip, my girlfriend and I were filming our experiences and showing how COVID impacted air travel. After we were done visiting Kauai, I spent about 20 hours editing, cutting, and processing all the video we got. I had many video sources, including a drone, smartphones, and cameras. I got a lot of good quality time learning Final Cut Pro X, both on the video side and the sound side as far as sound levels go. It was something that was not only a lot of fun, but also taught me some valuable skills as well. Final Cut Pro X isn't a huge learning curve but audio leveling and video editing in general is (at least to put out a good product).
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+You can find the link below to my Youtube video:
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QoxDOM5PKyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
