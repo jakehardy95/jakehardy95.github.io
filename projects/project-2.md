@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/Video.png
 title: Kauai Travel Video
-permalink: projects/vacay
+permalink: projects/kauaitravelvideo
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2020-07-26
 labels:
   - Final Cut Pro X
 summary: A travel video summarizing our time in Kauai with my family.
