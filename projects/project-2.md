@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Video.png
 title: Kauai Travel Video
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
