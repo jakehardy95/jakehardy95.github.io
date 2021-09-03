@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/Band.jpeg
 title: III MEF Band Marching Show
-permalink: projects/micromouse
+permalink: projects/marchingshow
 # All dates must be YYYY-MM-DD format!
 date: 2017-11-15
 labels:
