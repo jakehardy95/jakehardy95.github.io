@@ -89,18 +89,6 @@
   ],
   "work": [
     {
-      "company": "Evercast",
-      "position": "Software Developer Intern",
-      "website": "https://evercast.life/",
-      "startDate": "2021-09-01",
-      "endDate": "Present",
-      "summary": "Assist in the production of iOS and Android app",
-      "highlights": [
-        "Assist in front end and back end production for the Evercast app",
-        "Work in Xcode using Flutter and Firebase following UI/UX vision"
-      ]
-    },
-    {
       "company": "Aaron's Dive Shop",
       "position": "Scuba Instructor",
       "website": "",
