@@ -51,7 +51,7 @@ Through the course of 3 months, we learned a lot in our Computer Science 314 cla
           </Grid>
         </Container>
       </Container>
-      ```
+```
       
       This snippet was the landing page for our application. This didn't include the top menu but shows a glimpse at what we did for our application. Using Semantic UI React was very useful and made our app layout very easy to control and manipulate how we wanted to. If you would like to see more about this app, a link can be found [here](https://github.com/bloombugs)
       
