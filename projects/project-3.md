@@ -50,7 +50,7 @@ Through the course of 3 months, we learned a lot in our Computer Science 314 cla
             </Grid.Row>
           </Grid>
         </Container>
-      </Container>
+</Container>
 ```
      
      
