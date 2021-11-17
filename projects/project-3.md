@@ -17,7 +17,7 @@ This year, a few of my classmates and I decided to participate in the Hawaii Ann
 
 Our team chose to build the Hawaii Marine Animal Response Reporting and Sighting application. To achieve this, we decided to use Meteor, React, MongoDB, and Semantic UI to build the app. The link can be found here: "". Throughout the process, we learned a lot including notification pushing, form handling and submission, as well as user login and account creation. The biggest thing that I took away from this project is how great it is to work in teams and be able to accomplish a goal, especially through the resources that Github provides. 
 
-Through the course of 3 months, we learned a lot in our Computer Science 314 class, Software Engineering. We applied what we learned in this class to building a full fledged web application that looks good on both browsers and smartphones. A snippet of the code can be seen below: 
+Through the course of 3 months, we learned a lot in our Computer Science 314 class, Software Engineering. We applied what we learned in this class to building a full fledged web application that looks good on both browsers and smartphones.
 
 This snippet was the landing page for our application. This didn't include the top menu but shows a glimpse at what we did for our application. Using Semantic UI React was very useful and made our app layout very easy to control and manipulate how we wanted to. If you would like to see more about this app, a link can be found [here](https://github.com/bloombugs)
 ```
@@ -54,10 +54,5 @@ This snippet was the landing page for our application. This didn't include the t
         </Container>
 </Container>
 ```
-     
-     
-     
-     
-      This snippet was the landing page for our application. This didn't include the top menu but shows a glimpse at what we did for our application. Using Semantic UI React was very useful and made our app layout very easy to control and manipulate how we wanted to. If you would like to see more about this app, a link can be found [here](https://github.com/bloombugs)
       
  
