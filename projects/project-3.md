@@ -23,7 +23,7 @@ This snippet was the landing page for our application. This didn't include the t
 
 If you would like to find a working version of the app, a link can be found [here](https://kahukai-bloombugs.cloud/#/)
 
-![](images/projectImg.png)
+[](images/projectImg.png)
 ```
 <Container fluid>
         <Grid id='landing-page' className='center aligned'>
