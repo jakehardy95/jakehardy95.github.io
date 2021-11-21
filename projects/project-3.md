@@ -20,6 +20,8 @@ Our team chose to build the Hawaii Marine Animal Response Reporting and Sighting
 Through the course of 3 months, we learned a lot in our Computer Science 314 class, Software Engineering. We applied what we learned in this class to building a full fledged web application that looks good on both browsers and smartphones.
 
 This snippet was the landing page for our application. This didn't include the top menu but shows a glimpse at what we did for our application. Using Semantic UI React was very useful and made our app layout very easy to control and manipulate how we wanted to. If you would like to see more about this app, a link can be found [here](https://github.com/bloombugs)
+
+If you would like to find a working version of the app, a link can be found [here](https://kahukai-bloombugs.cloud/#/)
 ```
 <Container fluid>
         <Grid id='landing-page' className='center aligned'>
