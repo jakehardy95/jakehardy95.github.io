@@ -21,7 +21,7 @@ Through the course of 3 months, we learned a lot in our Computer Science 314 cla
 
 This snippet was the landing page for our application. This didn't include the top menu but shows a glimpse at what we did for our application. Using Semantic UI React was very useful and made our app layout very easy to control and manipulate how we wanted to. If you would like to see more about this app, a link can be found [here](https://github.com/bloombugs)
 
-If you would like to find a working version of the app, a link can be found [here](https://kahukai-bloombugs.cloud/#/)
+If you would like to find a working version of the app, a link can be found [here](http://64.227.111.66/#/)
 
 ![](images/projectImg.png)
 ```
